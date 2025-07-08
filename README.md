@@ -14,7 +14,7 @@
 
 ---
 
-## [👩‍💻 Sobre mí](#sobre-mí)
+## 👩‍💻sobre-mí
 
 Soy QA Manual con experiencia en validación funcional, pruebas exploratorias y trabajo en equipo. Actualmente me estoy formando en automatización con JavaScript (Cypress y Playwright).
 
