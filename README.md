@@ -1,17 +1,21 @@
-## 📚 Tabla de contenidos
-
-- [Bio](#bio)
-- [Proyectos](#proyectos)
-- [Herramientas](#herramientas)
-- [Contacto](#contacto)
 
 
 <p align="center">
   <img src="Banner.png" alt="Banner de Daiana Barboza" />
 </p>
 
+## 📚 Tabla de Contenidos
+
+- [👩‍💻 Sobre mí](#sobre-mí)
+- [🛠 Herramientas y tecnologías](#herramientas-y-tecnologías)
+- [📌 Proyectos](#proyectos)
+- [📜 Certificaciones](#certificaciones)
+- [📫 Contacto](#contacto)
+
+- ## 👩‍💻 Sobre mí
+
 <h1 align="center">Hola 👋 soy Daiana, QA Manual en transición a Automation</h1>
- <h2[Bio](#bio)>
+
 <h3 align="center">Tester QA Manual con experiencia en proyectos colaborativos, APIs y validación de funcionalidades</h3>
 
 
