@@ -5,11 +5,11 @@
 - [Herramientas](#herramientas)
 - [Contacto](#contacto)
 
- ##Bio
+
 <p align="center">
   <img src="Banner.png" alt="Banner de Daiana Barboza" />
 </p>
-
+(#bio)
 <h1 align="center">Hola 👋 soy Daiana, QA Manual en transición a Automation</h1>
 <h3 align="center">Tester QA Manual con experiencia en proyectos colaborativos, APIs y validación de funcionalidades</h3>
 
