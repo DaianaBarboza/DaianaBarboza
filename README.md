@@ -14,42 +14,12 @@
 
 ---
 
-## 👩‍💻 Sobre mí
+## [👩‍💻 Sobre mí](#sobre-mí)
 
 Soy QA Manual con experiencia en validación funcional, pruebas exploratorias y trabajo en equipo. Actualmente me estoy formando en automatización con JavaScript (Cypress y Playwright).
 
 ---
-
-## 🛠 Herramientas y tecnologías
-
-- Jira, Trello, TestRail  
-- Postman  
-- Git y GitHub  
-- Cypress (aprendiendo)  
-- JavaScript básico para testing  
-
----
-
-## 📌 Proyectos
-
-- **Smart Projects** – Validación funcional, reporte de bugs, historias de usuario.  
-- **Automatización con Cypress** *(en curso)* – Scripts de prueba automatizados.
-
----
-
-## 📜 Certificaciones
-
-- JavaScript básico para testers – Tester Testarudo  
-
----
-
-## 📫 Contacto
-
-- 📧 daiana.barboza93@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/daianabarboza)  
-
-
-
+ 
 
 <h1 align="center">Hola 👋 soy Daiana, QA Manual en transición a Automation</h1>
 
