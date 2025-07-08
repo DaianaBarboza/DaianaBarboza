@@ -12,13 +12,13 @@
 - [📜 Certificaciones](#certificaciones)
 - [📫 Contacto](#contacto)
 
-[👩‍💻 Sobre mí](#sobre-mí)
+
 
 <h1 align="center">Hola 👋 soy Daiana, QA Manual en transición a Automation</h1>
 
 <h3 align="center">Tester QA Manual con experiencia en proyectos colaborativos, APIs y validación de funcionalidades</h3>
 
-
+  ##sobre-mí
 - 👯 Me gustaria colaborar en  **Proyectos de testing QA (manual o con enfoque en APIs), y en iniciativas que involucren automatización.**
 
 - 🌱 Actualmente estoy aprendiendo ** JavaScript para QA · Pruebas automatizadas · Mejorar habilidades en inglés técnico.**
