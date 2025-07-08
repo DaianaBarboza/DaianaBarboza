@@ -1,3 +1,11 @@
+## 📚 Tabla de contenidos
+
+- [Bio](#bio)
+- [Proyectos](#proyectos)
+- [Herramientas](#herramientas)
+- [Contacto](#contacto)
+
+ ##Bio
 <p align="center">
   <img src="Banner.png" alt="Banner de Daiana Barboza" />
 </p>
