@@ -12,7 +12,7 @@
 - [📜 Certificaciones](#certificaciones)
 - [📫 Contacto](#contacto)
 
-- ## 👩‍💻 Sobre mí
+-(#sobre-mí)
 
 <h1 align="center">Hola 👋 soy Daiana, QA Manual en transición a Automation</h1>
 
