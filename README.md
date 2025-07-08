@@ -2,13 +2,13 @@
   <img src="Banner.png" alt="Banner de Daiana Barboza" />
 </p>
 
-<h1 align="center">Hola 👋 soy, Daiana</h1>
+<h1 align="center">Hola 👋 soy Daiana, QA Manual en transición a Automation</h1>
 <h3 align="center">Tester QA Manual con experiencia en proyectos colaborativos, APIs y validación de funcionalidades</h3>
 
 
-- 👯 I’m looking to collaborate on **Proyectos de testing QA (manual o con enfoque en APIs), y en iniciativas que involucren automatización.**
+- 👯 Me gustaria colaborar en  **Proyectos de testing QA (manual o con enfoque en APIs), y en iniciativas que involucren automatización.**
 
-- 🌱 I’m currently learning ** JavaScript para QA · Pruebas automatizadas · Mejorar habilidades en inglés técnico.**
+- 🌱 Actualmente estoy aprendiendo ** JavaScript para QA · Pruebas automatizadas · Mejorar habilidades en inglés técnico.**
 
 - 👨‍💻Mi participación en proyectos [https://github.com/FooTalentGroup/AURA.git](https://github.com/FooTalentGroup/AURA.git)
 
