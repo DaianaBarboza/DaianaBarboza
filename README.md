@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="Banner de Daiana Barboza" />
+</p>
+
 <h1 align="center">Hola 👋 soy, Daiana</h1>
 <h3 align="center">Tester QA Manual con experiencia en proyectos colaborativos, APIs y validación de funcionalidades</h3>
 
