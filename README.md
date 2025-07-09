@@ -14,7 +14,7 @@
 
 ---
 
-## [👩‍💻 Sobre mí](#sobre-mí)
+[👩‍💻 Sobre mí](##sobre-mí)
 
 ---
  
