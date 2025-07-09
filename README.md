@@ -22,15 +22,19 @@
 
 ## 👩‍💻sobre-mí
 
-- 👯 Me gustaria colaborar en  **Proyectos de testing QA (manual o con enfoque en APIs), y en iniciativas que involucren automatización.**
+🎓 Empecé mi camino en QA en 2024, con formación en Coderhouse y dos entrenamientos intensivos, donde participé en proyectos simulados aplicando testing manual, validación de APIs y metodologías ágiles.
 
-- 🌱 Actualmente estoy aprendiendo ** JavaScript para QA · Pruebas automatizadas · Mejorar habilidades en inglés técnico.**
+🧪 Realicé pruebas funcionales, exploratorias y de regresión, utilizando herramientas como Postman, Swagger, Notion y Excel para documentar, reportar errores y colaborar en equipos multifuncionales.
 
-- 👨‍💻Mi participación en proyectos [https://github.com/FooTalentGroup/AURA.git](https://github.com/FooTalentGroup/AURA.git)
+🌱 Actualmente me estoy formando en **Automatización con JavaScript, con interés en herramientas como Cypress y Playwright.**
 
-- 💬 conocimientos **QA Manual · Pruebas funcionales y regresión · Validación de APIs con Postman y Swagger · Documentación en Excel / Notion**
+🔍 Me apasiona aprender, trabajar en equipo y asegurar la calidad de los productos desde una mirada detallista, organizada y orientada al usuario final.
 
-- 📫 contáctame en **daiana.barboza93@gmail.com**
+  ---
+  ## herramientas-y-tecnologías
+
+- Jira: Aprendí a desarrollar proyectos, **dar seguimiento, reportar incidencias, gestionar tareas dentro de un sprint simulado, y comprender mejor cómo se aplican las metodologías ágiles en un entorno de trabajo.**
+- Postman: Experiencia en pruebas manuales de APIs públicas utilizadas con fines educativos y prácticos. **Validación de solicitudes, respuestas y comportamiento de servicios web.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
