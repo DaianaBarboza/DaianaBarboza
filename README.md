@@ -13,8 +13,7 @@
 - [📫 Contacto](#contacto)
 
 ---
-
-## [👩‍💻 Sobre mí](sobre-mí)
+## 👩‍💻 Sobre mí
 
 ---
  
