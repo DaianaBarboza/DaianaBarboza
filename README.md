@@ -6,7 +6,7 @@
 
 ## 📚 Tabla de Contenidos
 
-- [👩‍💻 Sobre mí](#sobre-mí)
+- [👩‍💻 Sobre mí](#sobre mí)
 - [🛠 Herramientas y tecnologías](#herramientas-y-tecnologías)
 - [📌 Proyectos](#proyectos)
 - [📜 Certificaciones](#certificaciones)
@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻sobre-mí
+## 👩‍💻sobre mí
 
 ---
  
