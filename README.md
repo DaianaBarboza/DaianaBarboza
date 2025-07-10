@@ -33,9 +33,10 @@
   ---
   ## herramientas-y-tecnologías
 
-- Jira: Aprendí a desarrollar proyectos, **dar seguimiento, reportar incidencias, gestionar tareas dentro de un sprint simulado, y comprender mejor cómo se aplican las metodologías ágiles en un entorno de trabajo.**
-- Postman: Experiencia en pruebas manuales de APIs públicas utilizadas con fines educativos y prácticos. **Validación de solicitudes, respuestas y comportamiento de servicios web.**
-
+- **Jira**: Aprendí a desarrollar proyectos, **dar seguimiento, reportar incidencias, gestionar tareas dentro de un sprint simulado, y comprender mejor cómo se aplican las metodologías         ágiles en un entorno de trabajo.**
+- **Postman**: Experiencia en pruebas manuales de APIs públicas utilizadas con fines educativos y prácticos. **Validación de solicitudes, respuestas y comportamiento de servicios web.**
+- Con **Agile Test y Xray**: desarrollé habilidades para crear casos de prueba, definir condiciones previas, organizar planes de prueba y documentar errores de forma clara y ordenada.
+- **Screenpal**: La utilice para grabar recorridos funcionales, Documentar bugs visualmente, Crear evidencia de pruebas, Mostrar pruebas que involucran pasos complejos.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daiana-barboza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daiana-barboza/" height="30" width="40" /></a>
