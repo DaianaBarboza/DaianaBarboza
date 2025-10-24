@@ -37,6 +37,18 @@
 - **Postman**: Experiencia en pruebas manuales de APIs públicas utilizadas con fines educativos y prácticos. **Validación de solicitudes, respuestas y comportamiento de servicios web.**
 - Con **Agile Test y Xray**: desarrollé habilidades para crear casos de prueba, definir condiciones previas, organizar planes de prueba y documentar errores de forma clara y ordenada.
 - **Screenpal**: La utilice para grabar recorridos funcionales, Documentar bugs visualmente, Crear evidencia de pruebas, Mostrar pruebas que involucran pasos complejos.
+
+## 📌 Proyectos 
+**Foo Talent Group Training (2025)** - **AURA** ⚕️🩺
+
+-Descripción:
+Participé en el análisis manual y automatizado de calidad de una aplicación web de servicios médicos desarrollada durante 8 semanas como parte de mi segundo programa de formación profesional en TI en Foo Talent Group.
+
+**Certified Agile Digital Product Practitioner** (CADPP™) – Igrowker - **Campers**⛺
+-Participé en un entrenamiento intensivo de 4 semanas enfocado en el desarrollo ágil de productos digitales. Contribuí al desarrollo de un MVP funcional para una plataforma de reservas de campings, realizando pruebas funcionales, de borde y de regresión. Utilicé Postman y Swagger para la validación de APIs y pruebas automatizadas.
+Documenté hallazgos y gestioné tickets en Notion, promoviendo un seguimiento estructurado del progreso.
+Colaboré con equipos de Desarrollo, UX/UI y DevOps mediante Discord, fortaleciendo la comunicación y la resolución ágil de incidencias.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daiana-barboza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daiana-barboza/" height="30" width="40" /></a>
