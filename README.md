@@ -45,6 +45,7 @@
 Participé en el análisis manual y automatizado de calidad de una aplicación web de servicios médicos desarrollada durante 8 semanas como parte de mi segundo programa de formación profesional en TI en Foo Talent Group.
 
 **Certified Agile Digital Product Practitioner** (CADPP™) – Igrowker - **Campers**⛺
+
 -Participé en un entrenamiento intensivo de 4 semanas enfocado en el desarrollo ágil de productos digitales. Contribuí al desarrollo de un MVP funcional para una plataforma de reservas de campings, realizando pruebas funcionales, de borde y de regresión. Utilicé Postman y Swagger para la validación de APIs y pruebas automatizadas.
 Documenté hallazgos y gestioné tickets en Notion, promoviendo un seguimiento estructurado del progreso.
 Colaboré con equipos de Desarrollo, UX/UI y DevOps mediante Discord, fortaleciendo la comunicación y la resolución ágil de incidencias.
