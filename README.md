@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="banner2.png" alt="Banner de Daiana Barboza" />
+  <img src="banner2.png" alt="Banner de Daiana Barboza"/>
 </p>
 
 ## 📚 Tabla de Contenidos
