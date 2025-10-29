@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="banner2.png" alt="Banner de Daiana Barboza"/>
-</p>
+<p align="center">![Banner de Daiana Barboza](https://raw.githubusercontent.com/DaianaBarboza/DaianaBarboza/main/banner2.png)</p>
 
 ## 📚 Tabla de Contenidos
 
