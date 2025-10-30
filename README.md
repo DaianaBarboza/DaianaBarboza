@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/DaianaBarboza/DaianaBarboza/main/banner2.png" alt="Banner de Daiana Barboza" />
 </p>
 
+
 ## 📚 Tabla de Contenidos
 
 - [👩‍💻 Sobre mí](#sobre-mí)
